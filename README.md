@@ -1,11 +1,17 @@
 # MongoCabra
 
-## Usage
+## Instalação
+``` sh
+npm install -g mongo-cabra
+```
+
+
+## Modo de Uso
 ``` sh
 mongo-cabra [options]
 ```
 
-## Options
+## Opções
 ```
 -h, --help               output usage information
 -V, --version            output the version number
